@@ -1,5 +1,5 @@
 # Calculadora
 
-<img src="img/calculadora.jpg"> 
+<img style="width: 15%;" src="calculadora.png"> 
   
 Calculadora simples utilizando interface gráfica.
